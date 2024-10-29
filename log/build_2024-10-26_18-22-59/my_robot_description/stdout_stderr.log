@@ -1,0 +1,26 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/common_properties.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/gazebo_imu_plugin.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/gazebo_plugin.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/gazebo_properties.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/mobile_base.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.py
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description//rviz/urdf_config.rviz
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.sh
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.dsv
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.bash
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.sh
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.zsh
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.dsv
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description/package.dsv
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+-- Symlinking: /home/cuong/ros2_ws/install/my_robot_description/share/my_robot_description/package.xml
